@@ -3,9 +3,9 @@
 imspecies (Intelligent Machine Species)
 
 ## Description
-
-This is the public repository of imspecies. I cover different concepts in Machine Learning, Deep Learning, and Data Science in my [instagram](https://www.instagram.com/____imspecies/) page and [website](https://www.imspecies.com/). Each topic contains two posts in Instagram. One for explanation of the concept and one for showing the coding example. The module names are similar to the post names. I will keep the codes as simple as possible. Since, I believe in avoiding complexity when there is no need for it. So, if you follow the posts and the codes, you will be able to easily mix the knowledge and use them in your own projects.
-
+In this repository, I keep different pieces of code that I use in my daily life. Codes are related to Machine Learning, Deep Learning, Data Analysis, Data Manipulation, etc. 
+[instagram](https://www.instagram.com/____imspecies/) 
+[website](https://www.imspecies.com/)
 
 ### Dependencies
 
